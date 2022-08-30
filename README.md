@@ -89,7 +89,7 @@ Pola yang digunakan untuk memilih elemen, yang ingin di styling.
    - tag class dengan nama yang sama dapat dipakai berulang-ulang pada satu halaman
    - satu elemen boleh memiliki lebih dari satu class yang berbeda
 
-# CSS GRUPING
+# CSS GROUPING
 Beberapa selector dapat dikelompokan dalam satu deklarasi syle
 
 # CSS FONT
